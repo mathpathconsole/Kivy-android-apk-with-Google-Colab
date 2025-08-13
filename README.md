@@ -12,4 +12,4 @@ I upload .ipynb file that includes steps.
 
 5- !buildozer -v android debug
 
-[*] it tested July 2024, works well. Stars of the Sky | Reşat Berk
+[*] it tested Aug 2025, works well. Stars of the Sky | Reşat Berk
